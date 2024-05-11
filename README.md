@@ -3,6 +3,8 @@ Repositório para armazenar o passo a passo para rodar um driver para acender um
 
 ![image](https://github.com/VictorRavani/Driver_LED_Raspberry/assets/101602056/0a0a3c0b-33d3-4f57-babc-1e1099cf97ac)
 
+Obs.: Ignore a placa de desenvolvimento da ST e os demais periféricos que não fazem parte deste teste. 
+
 #Instalando drive na Raspberry para rodas um script em Python
 
 - Descompacte a pasta em um local do seu Raspberry.
