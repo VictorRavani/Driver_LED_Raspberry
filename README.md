@@ -1,7 +1,7 @@
 # Driver_LED_Raspberry
 Repositório para armazenar o passo a passo para rodar um driver para acender um led a partir de um script em python.
 
-				![image](https://github.com/VictorRavani/Driver_LED_Raspberry/assets/101602056/0a0a3c0b-33d3-4f57-babc-1e1099cf97ac)
+![image](https://github.com/VictorRavani/Driver_LED_Raspberry/assets/101602056/0a0a3c0b-33d3-4f57-babc-1e1099cf97ac)
 
 Versão: Linux raspberrypi 6.1.21-v7+ #1642 SMP Mon Apr  3 17:20:52 BST 2023 armv7l GNU/Linux
 
